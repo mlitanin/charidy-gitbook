@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: API Documentation
+  title: Product Documentation
   structure:
     - type: space
       key: space-1
-      title: API Documentation
-      path: api-documentation
+      title: Public Documentation
+      path: charidy-product-documentation
       default: true
       content:
-        directory: ./api-documentation
+        directory: ./public_documentation
