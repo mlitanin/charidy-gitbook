@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Policies
+  title: API Documentation
   structure:
     - type: space
       key: space-1
-      title: Policies
-      path: policies
+      title: API Documentation
+      path: api-documentation
       default: true
       content:
-        directory: ./policies
+        directory: ./api-documentation
